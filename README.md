@@ -9,7 +9,7 @@ This repository contains code and instructions to draw a Christmas tree using th
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Drawing the Christmas Tree](#drawing-the-christmas-tree)
-- [Customization](#customization)
+- [Customisation](#customisation)
 - [License](#license)
 
 ## Introduction
@@ -49,7 +49,7 @@ source("tree.R")
 
 This script uses the `crayon` package to color and create the tree shape directly in the R console.
 
-## Customization
+## Customisation
 
 Feel free to customize the tree by modifying the script:
 
