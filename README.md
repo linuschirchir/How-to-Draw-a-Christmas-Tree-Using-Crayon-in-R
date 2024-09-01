@@ -1,9 +1,8 @@
-```markdown
 # How to Draw a Christmas Tree Using Crayon in R
 
 This repository contains code and instructions to draw a Christmas tree using the `crayon` package in R, as explained in the [Medium article by Linus Chirchir](https://linuschirchir.medium.com/how-to-draw-a-christmas-tree-using-crayon-in-r-493f603f6462).
 
-![Christmas Tree](tree_image.png)
+![Christmas Tree](tree_image.webp)
 
 ## Table of Contents
 - [Introduction](#introduction)
